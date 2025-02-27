@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**luisarroyo117/luisarroyo117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1>Hi 👋, I'm Luis</h1>
 <p>Aspiring Data Analyst, passionate about data-driven insights and ready to tackle real-world challenges</p>
 <h2>🚀 Languages and Tools I Use</h2>
@@ -17,3 +12,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisarroyo117&" alt="luisarroyo117" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisarroyo117&show_icons=true&locale=en&layout=compact" alt="luisarroyo117" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisarroyo117" alt="luisarroyo117" /></a></p>
+
