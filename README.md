@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 🎯 **Focused on:** Data Analytics, Visualization, and Machine Learning.  
-📊 **Skills:** SQL, Python, Pandas, MongoDb, Java, HTML, and Data Visualization.  
+📊 **Skills:** SQL, Python, Pandas, MongoDb, Java, HTML, API's and Data Visualization.  
 📚 **Currently Learning:** Advanced SQL Queries & Power BI Tableu.  
 🌎 **Open to:** Collaborations & New Opportunities.  
 
