@@ -52,8 +52,11 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisarroyo117&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Most Used Languages" />
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=luisarroyo117&theme=dracula" alt="GitHub Activity Graph" />
+ ## 📊 GitHub Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luisarroyo117&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
+
 
 ---
 
