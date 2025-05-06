@@ -72,7 +72,9 @@ jobs:
 
             dist/github-snake-light.svg?palette=github-light
 
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/pro-recruiter-snake.svg?color_snake=#1E90FF&color_dots=#f0f4f8,#d9e2ec,#bcccdc,#9fb3c8,#829ab1
+
+         
 
         env:
 
