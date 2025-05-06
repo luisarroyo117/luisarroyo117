@@ -3,14 +3,14 @@
   <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/master/Assets/Luis_Header.jpg" alt="Luis Arroyo" width="100%">
 </p>
 
-<h1 align="center" style="color:#1E90FF;">Hi 👋, I'm <span style="color:#ff6347;">Luis</span></h1>
+<h1 align="center" style="color:#ffcc00;">Hi 👋, I'm <span style="color:#ff6699;">Luis</span></h1>
 <p align="center">
-  <strong><span style="color:#32CD32;">Aspiring Data Analyst</span></strong> | Passionate about data-driven insights | Ready to tackle real-world challenges
+  <strong><span style="color:#66ffcc;">Aspiring Data Analyst</span></strong> | Passionate about data-driven insights | Ready to tackle real-world challenges
 </p>
 
 <!-- Colorful Divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229002502-972efb66-960b-4a35-bf85-020b002d60b2.gif" width="100%" style="border: 3px solid #1E90FF;">
+  <img src="https://user-images.githubusercontent.com/74038190/229002502-972efb66-960b-4a35-bf85-020b002d60b2.gif" width="100%">
 </p>
 
 ## 🚀 About Me  
@@ -23,12 +23,15 @@
 ---
 
 ## 🎨 Tech Stack  
-<h3 align="center" style="color:#ffcc00;">Tech Stack</h3>
-<p align="center" style="color:#ff6347;">
+<p align="center">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="50" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" /></a>
   <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" /></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="50" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" /></a>
 </p>
 
 ---
@@ -43,12 +46,17 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisarroyo117&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luisarroyo117&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisarroyo117&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisarroyo117&theme=highcontrast" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisarroyo117&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Most Used Languages" />
+  <br>
+ ## 📊 GitHub Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luisarroyo117&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
+
 
 ---
 
@@ -85,24 +93,21 @@
 📌 *Let's connect and build amazing data projects together!* 🚀  
 <p>Credits: <a href="https://github.com/jayrajroshan">jayrajroshan</a></p>
 
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/luisarroyo117/count.svg?"  />
 </div>
 
----
+
 
 <img src="https://raw.githubusercontent.com/luisarroyo117/luisarroyo117/output/snake.svg" alt="Snake animation" />
 
-### 
+###
 ![snake animation](https://github.com/luisarroyo117/luisarroyo117/blob/output/github-snake-light.svg)
 
 ![snake gif](https://github.com/luisarroyo117/luisarroyo117/blob/output/ocean.gif)
 
 ![Professional Snake](https://github.com/luisarroyo117/luisarroyo117/blob/output/pro-recruiter-snake.svg)
-
-
-
-
 
 
 
