@@ -70,6 +70,8 @@ jobs:
 
             dist/github-snake-dark.svg?palette=github-dark
 
+            dist/github-snake-light.svg?palette=github-light
+
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
         env:
@@ -97,9 +99,5 @@ jobs:
           commit_message: "Update snake animation [skip ci]"
 
 
-              with:
-      github_user_name: luisarroyo117
-      outputs: |
-        dist/github-snake.svg
-        dist/github-snake-light.svg?palette=github-light
+           
 
