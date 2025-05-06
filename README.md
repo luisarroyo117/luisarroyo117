@@ -103,6 +103,9 @@
 <img src="https://raw.githubusercontent.com/luisarroyo117/luisarroyo117/output/snake.svg" alt="Snake animation" />
 
 ###
+![snake animation](https://github.com/luisarroyo117/luisarroyo117/blob/output/github-snake-light.svg)
+
+![snake gif](https://github.com/luisarroyo117/luisarroyo117/blob/output/ocean.gif)
 
 
 
